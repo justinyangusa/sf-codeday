@@ -1,4 +1,4 @@
-package com.thejustinyang.remindr;
+	package com.thejustinyang.remindr;
 
 import android.os.Bundle;
 import android.app.Activity;
